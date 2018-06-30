@@ -1,6 +1,5 @@
 <?
 session_start();
-//unset($_SESSION['units']);
 require ('model/ShopUnitModel.php');
 require('view/header-shop.php');
 
